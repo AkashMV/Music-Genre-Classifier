@@ -1,0 +1,33 @@
+body{
+    background-image: url('../Images/new.jpeg');
+}
+* {
+    font-family: Arial, sans-serif;
+    font-size: 16px;
+}
+
+div{
+    padding: 10px;
+    margin: 20px;
+}
+
+.result{
+    background-color: #3b3737;
+    padding: 20px;
+    color: #cccccc;
+    border-radius: 10px;
+}
+
+.info{
+    background-color: #655959;
+    padding: 20px;
+    color: #cccccc;
+    border-radius: 10px;
+}
+
+.artists{
+    background-color: #7e6969;
+    padding: 20px;
+    color: #cccccc;
+    border-radius: 10px;
+}

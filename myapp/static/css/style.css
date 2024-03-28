@@ -1,0 +1,61 @@
+body{
+    background-image: url('../Images/new.jpeg');;
+}
+
+/* Define the font family and size for the whole document */
+* {
+    font-family: Arial, sans-serif;
+    font-size: 16px;
+}
+
+/* Define the background color and padding for the header */
+.header {
+    background-color: #2d2a2a;
+    padding: 20px;
+    color: #cccccc;
+    border-radius: 10px;
+}
+
+/* Define the text alignment and margin for the heading */
+h1 {
+    text-align: center;
+    margin: 0;
+}
+
+/* Define the width, margin, and border for the container */
+.container {
+    
+    width: 80%;
+    margin: 20px auto;
+    border: 1px solid #cccccc;
+    background-color:  #2d2a2a;
+    color: #cccccc;
+    border-radius: 10px;
+}
+
+/* Define the padding and text alignment for the form */
+form {
+
+    padding: 20px;
+    text-align: center;
+}
+
+/* Define the style and size for the input elements */
+input {
+    border: none;
+    background-color: #cccccc;
+    padding: 10px;
+    cursor: pointer;
+}
+
+.submit{
+    margin: 10px;
+    border-radius: 10px;
+    background-color: #504545;
+    color: #cccccc;
+}
+
+.submit:hover{
+    background-color: #cccccc;
+    color: #504545;
+}

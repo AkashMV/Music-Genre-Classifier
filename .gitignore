@@ -1,0 +1,5 @@
+audio_files/
+myapp/learning/Data/
+myapp/learning/models/
+myapp/learning/sextracted.csv
+db.sqlite3
